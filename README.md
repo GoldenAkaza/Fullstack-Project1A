@@ -6,9 +6,9 @@ Live: https://crm-leads-tracker-1.onrender.com // The public URL where the live 
 ## Run Locally
 
 ### Setup Instructions
-npm install // Installs all project dependencies defined in the package.json file.
-npm start // Executes the "start" script defined in package.json (e.g., node server.js).
-Open http://localhost:3000/ // Instructs the user where to access the application in their browser.
+<p>npm install // Installs all project dependencies defined in the package.json file.<br/>
+npm start // Executes the "start" script defined in package.json (e.g., node server.js).<br/>
+Open http://localhost:3000/ // Instructs the user where to access the application in their browser<br/></p>
 
 ## Features
 - Create and list leads
