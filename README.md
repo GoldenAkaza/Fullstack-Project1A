@@ -28,7 +28,7 @@ Open VS Code terminal. The commands are the same on both platforms.
 <p>Overall, this project strengthened my confidence in building a micro full-stack application, deepened my understanding of server-client communication, and highlighted the importance of structured routing and deployment.</p>
 
 ## Video Presentation
-<h2>Timestamps</h2>
+<h3>Timestamps</h3>
 <p>00:00 Introduction and problem</p>
 <p>00:39 Features, technologies and architecture</p>
 <p>02:36 Live demo: add, mark status, console view</p>
