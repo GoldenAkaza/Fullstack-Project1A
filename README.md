@@ -26,3 +26,8 @@ Open VS Code terminal. The commands are the same on both platforms.
 <p>On the front end, I understood how client-side JavaScript interacts with API routes using fetch requests to display and modify data dynamically. Deploying the project on Render provided valuable experience in hosting real-world applications, from configuring the build process to troubleshooting deployment errors.<br/></p>
 
 <p>Overall, this project strengthened my confidence in building a micro full-stack application, deepened my understanding of server-client communication, and highlighted the importance of structured routing and deployment.</p>
+
+## Video Presentation
+
+https://go.screenpal.com/watch/cTXXlnnFmu4
+
